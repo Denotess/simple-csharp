@@ -43,11 +43,6 @@ How to contribute (if you'd like to help)
 - Fork the repo and send a pull request with simple improvements or exercises.
 - Keep changes small and focused (one learning idea per PR).
 
-Next steps you might try
-- Add brief README sections inside each project folder describing what the program does and any example inputs/outputs.
-- Add simple unit tests to practice test-driven development.
-- Add a lightweight CI workflow to build on push (optional).
-
 Contact
 - Open an issue in this repository for questions or suggestions.
 
