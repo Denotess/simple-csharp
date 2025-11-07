@@ -1,0 +1,14 @@
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.AssemblyInfoInputs.cache
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.AssemblyInfo.cs
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.csproj.CoreCompileInputs.cache
+/home/tian/Documents/Projects/c#/toDoList/bin/Debug/net9.0/toDoList
+/home/tian/Documents/Projects/c#/toDoList/bin/Debug/net9.0/toDoList.deps.json
+/home/tian/Documents/Projects/c#/toDoList/bin/Debug/net9.0/toDoList.runtimeconfig.json
+/home/tian/Documents/Projects/c#/toDoList/bin/Debug/net9.0/toDoList.dll
+/home/tian/Documents/Projects/c#/toDoList/bin/Debug/net9.0/toDoList.pdb
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.dll
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/refint/toDoList.dll
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.pdb
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/toDoList.genruntimeconfig.cache
+/home/tian/Documents/Projects/c#/toDoList/obj/Debug/net9.0/ref/toDoList.dll

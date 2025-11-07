@@ -1,0 +1,14 @@
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.GeneratedMSBuildEditorConfig.editorconfig
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.AssemblyInfoInputs.cache
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.AssemblyInfo.cs
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.csproj.CoreCompileInputs.cache
+/home/tian/Documents/Projects/c#/contacts/bin/Debug/net9.0/contacts
+/home/tian/Documents/Projects/c#/contacts/bin/Debug/net9.0/contacts.deps.json
+/home/tian/Documents/Projects/c#/contacts/bin/Debug/net9.0/contacts.runtimeconfig.json
+/home/tian/Documents/Projects/c#/contacts/bin/Debug/net9.0/contacts.dll
+/home/tian/Documents/Projects/c#/contacts/bin/Debug/net9.0/contacts.pdb
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.dll
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/refint/contacts.dll
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.pdb
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/contacts.genruntimeconfig.cache
+/home/tian/Documents/Projects/c#/contacts/obj/Debug/net9.0/ref/contacts.dll

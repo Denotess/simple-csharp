@@ -1,0 +1,14 @@
+/home/tian/Documents/Projects/c#/bin/Debug/net9.0/c#
+/home/tian/Documents/Projects/c#/bin/Debug/net9.0/c#.deps.json
+/home/tian/Documents/Projects/c#/bin/Debug/net9.0/c#.runtimeconfig.json
+/home/tian/Documents/Projects/c#/bin/Debug/net9.0/c#.dll
+/home/tian/Documents/Projects/c#/bin/Debug/net9.0/c#.pdb
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.AssemblyInfoInputs.cache
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.AssemblyInfo.cs
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.csproj.CoreCompileInputs.cache
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.dll
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/refint/c#.dll
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.pdb
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/c#.genruntimeconfig.cache
+/home/tian/Documents/Projects/c#/obj/Debug/net9.0/ref/c#.dll
