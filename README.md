@@ -8,11 +8,6 @@ Included projects
 - `contacts/` — a minimal contacts manager (simple I/O and data handling).
 - `toDoList/` — a simple to-do list console app (state management and persistence exercises if implemented).
 
-What I'm learning / intent
-- Using the .NET SDK and C# to create small console applications.
-- Project structure and simple build/run workflows.
-- Basic program design, input/output handling, and small-scale state management.
-
 Prerequisites
 - .NET 9 SDK (or a compatible .NET 9 runtime + SDK). Verify with:
 
