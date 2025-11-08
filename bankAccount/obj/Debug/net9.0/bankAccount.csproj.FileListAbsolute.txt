@@ -1,0 +1,15 @@
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.AssemblyInfoInputs.cache
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.AssemblyInfo.cs
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.csproj.CoreCompileInputs.cache
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.sourcelink.json
+/home/tian/Documents/Projects/c#/bankAccount/bin/Debug/net9.0/bankAccount
+/home/tian/Documents/Projects/c#/bankAccount/bin/Debug/net9.0/bankAccount.deps.json
+/home/tian/Documents/Projects/c#/bankAccount/bin/Debug/net9.0/bankAccount.runtimeconfig.json
+/home/tian/Documents/Projects/c#/bankAccount/bin/Debug/net9.0/bankAccount.dll
+/home/tian/Documents/Projects/c#/bankAccount/bin/Debug/net9.0/bankAccount.pdb
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.dll
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/refint/bankAccount.dll
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.pdb
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/bankAccount.genruntimeconfig.cache
+/home/tian/Documents/Projects/c#/bankAccount/obj/Debug/net9.0/ref/bankAccount.dll
