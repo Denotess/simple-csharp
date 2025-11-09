@@ -9,6 +9,7 @@ Included projects
 - `contactsv2/` — an upgraded contact manager that loads/saves `contacts.json` with basic error handling.
 - `toDoList/` — a simple to-do list console app (state management and optional persistence exercises).
 - `bankAccount/` — a small bank account simulator with transactions and `accounts.json` persistence.
+- `inventoryManager/` — an inventory management system using Entity Framework Core and SQLite for product tracking and stock movement history.
 
 Prerequisites
 - .NET 9 SDK (or a compatible .NET 9 runtime + SDK). Verify with:
@@ -30,6 +31,7 @@ Run an individual project from the repo root. If the project folder contains a .
 dotnet run --project toDoList
 dotnet run --project contactsv2
 dotnet run --project bankAccount
+dotnet run --project inventoryManager
 ```
 
 If a folder only contains a single `Program.cs`, follow the project README inside that folder for instructions on creating a console project and copying the file in.
